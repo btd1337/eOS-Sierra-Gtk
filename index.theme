@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=eOS-Sierra-Gtk
+Comment=Arc based on elementary theme
+Encoding=UTF-8
+
+Name[en_US]=eOS-Sierra-Gtk
+
+[X-GNOME-Metatheme]
+GtkTheme=elementary
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
