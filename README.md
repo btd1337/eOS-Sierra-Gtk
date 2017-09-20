@@ -1,6 +1,7 @@
 # eOS Sierra Gtk
 A GTK theme for elementary OS Loki with macOS appearence and fixes for GTK applications
 
+
 ![First Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot1.png)
 
 
@@ -31,10 +32,15 @@ Set theme:
     $ rm -R ~/.themes/eOS-Sierra-Gtk
     
     
-#### Extras:
+### Extras:
  * Icons: La Capitaine available in https://github.com/keeferrourke/la-capitaine-icon-theme
  * Dock: Cairo-Dock macOS Sierra Style available in https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style
  * Wallpaper: macOS Sierra wallpaper macbook available in https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style/blob/master/images/wallpapers/
+ 
+ 
+### Donate:
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=US&item_name=btd1337&item_number=eOS%2dSierra%2dGtk&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+ 
 
 #### Improvements are accepted!
 
