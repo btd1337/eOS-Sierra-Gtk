@@ -24,7 +24,7 @@ A GTK theme for elementary OS Loki with macOS appearence and fixes for GTK appli
 ## How to install
 
 ### First: 
- * Recommended install the La Capitaine icon pack, available in https://github.com/keeferrourke/la-capitaine-icon-theme . The image theme is La Capitaine hacked (soon available)
+ * Recommended install the La Capitaine icon pack, available in https://github.com/keeferrourke/la-capitaine-icon-theme or my mod: La Sierra icon pack: https://www.dropbox.com/s/0eo6ixbvp3g8ip9/La%20Sierra.tar.gz?dl=0 (Extract and put it in ~/.icons)
  * Recommended install San Francisco Fonts, available in https://github.com/AppleDesignResources/SanFranciscoFont
  
  
