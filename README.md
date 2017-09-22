@@ -11,16 +11,27 @@ A GTK theme for elementary OS Loki with macOS appearence and fixes for GTK appli
 ![Third Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot3.png)
 
 
+![Fourth Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot4.png)]
+
+
+![Fifth Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot5.png)]
+
+
+![Sixth Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot6.png)]
+
+
+
 ## How to install
 
 ### First: 
- * Recommended install the La Capitaine icon pack, available in https://github.com/keeferrourke/la-capitaine-icon-theme
+ * Recommended install the La Capitaine icon pack, available in https://github.com/keeferrourke/la-capitaine-icon-theme . The image theme is La Capitaine hacked (soon available)
  * Recommended install San Francisco Fonts, available in https://github.com/AppleDesignResources/SanFranciscoFont
+ 
  
 ### Second:
 Clone the repository for folder ~/.themes/
 
-    $ git clone https://github.com/btd1337/eOS-Sierra-Gtk ~/.themes/
+    $ git clone https://github.com/btd1337/eOS-Sierra-Gtk ~/.themes/eOS-Sierra-Gtk
     
 ### Third:
 Set theme:
