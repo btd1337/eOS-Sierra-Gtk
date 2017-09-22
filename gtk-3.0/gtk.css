@@ -3815,7 +3815,7 @@ menubar.panel,
 .composited-indicator > revealer label,
 .composited-indicator > revealer image,
 .composited-indicator > GtkRevealer {
-    color: #423A3F; /* Change - original #fff */
+    color: #5C616C; /* Change - original #fff */
     font-weight: 600;   /* change to 600 for medium-bold or to bold for bold */
     font: San Francisco Display Semibold;
     font-size: 10px;
@@ -3837,7 +3837,7 @@ menubar.panel,
         0 0 2px alpha (#000, 0.3),
         0 1px 2px alpha (#000, 0.6);
     Change */
-    color: #333;
+    color: #5C616C;
     font-weight: 600;
     padding: 0 3px;
     text-shadow: none;
