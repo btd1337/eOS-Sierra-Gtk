@@ -4795,5 +4795,5 @@ GtkDialog GtkLabel.primary {
 @define-color wm_icon_hover_bg #7A7F8B;
 @define-color wm_icon_active_bg #ffffff;
 
-@import url("gtk-widgets.css");
+/*@import url("apps.css"); */
 
