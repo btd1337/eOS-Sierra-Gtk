@@ -4339,3 +4339,73 @@ label.success,
 .label.success {
     color: shade (@success_color, 0.75);
 }
+
+
+/* OSX CONTROLS */
+
+.header-bar.default-decoration .button.titlebutton,
+.titlebar.default-decoration .button.titlebutton {
+  padding-top: 0px;
+  padding-bottom: 0px; }
+
+.header-bar .button.titlebutton,
+.titlebar .button.titlebutton {     /* Change: Terminal control buttons */
+  padding-left: 1px;
+  border-color: transparent;
+  background-color: transparent;
+  background-image: none;
+  background-color: rgba(231, 232, 235, 0); }
+
+ 
+  .header-bar .button.titlebutton.close, .header-bar .button.titlebutton.maximize, .header-bar .button.titlebutton.minimize,
+  .titlebar .button.titlebutton.close,
+  .titlebar .button.titlebutton.maximize,
+  .titlebar .button.titlebutton.minimize {
+    color: transparent;
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-width: 0; }
+
+    .header-bar .button.titlebutton.close:backdrop, .header-bar .button.titlebutton.maximize:backdrop, .header-bar .button.titlebutton.minimize:backdrop,
+    .titlebar .button.titlebutton.close:backdrop,
+    .titlebar .button.titlebutton.maximize:backdrop,
+    .titlebar .button.titlebutton.minimize:backdrop {
+      opacity: 1; }
+  .header-bar .button.titlebutton.close,
+  .titlebar .button.titlebutton.close {
+    background-image: -gtk-scaled(url("assets/titlebutton-close.png"), url("assets/titlebutton-close@2.png")); }
+  .header-bar .button.titlebutton.close:backdrop,
+  .titlebar .button.titlebutton.close:backdrop {
+    background-image: -gtk-scaled(url("assets/titlebutton-close-backdrop.png"), url("assets/titlebutton-close-backdrop@2.png")); }
+  .header-bar .button.titlebutton.close:hover,
+  .titlebar .button.titlebutton.close:hover {
+    background-image: -gtk-scaled(url("assets/titlebutton-close-hover.png"), url("assets/titlebutton-close-hover@2.png")); }
+  .header-bar .button.titlebutton.close:active,
+  .titlebar .button.titlebutton.close:active {
+    background-image: -gtk-scaled(url("assets/titlebutton-close-active.png"), url("assets/titlebutton-close-active@2.png")); }
+  .header-bar .button.titlebutton.maximize,
+  .titlebar .button.titlebutton.maximize {
+    background-image: -gtk-scaled(url("assets/titlebutton-maximize.png"), url("assets/titlebutton-maximize@2.png")); }
+  .header-bar .button.titlebutton.maximize:backdrop,
+  .titlebar .button.titlebutton.maximize:backdrop {
+    background-image: -gtk-scaled(url("assets/titlebutton-maximize-backdrop.png"), url("assets/titlebutton-maximize-backdrop@2.png")); }
+  .header-bar .button.titlebutton.maximize:hover,
+  .titlebar .button.titlebutton.maximize:hover {
+    background-image: -gtk-scaled(url("assets/titlebutton-maximize-hover.png"), url("assets/titlebutton-maximize-hover@2.png")); }
+  .header-bar .button.titlebutton.maximize:active,
+  .titlebar .button.titlebutton.maximize:active {
+    background-image: -gtk-scaled(url("assets/titlebutton-maximize-active.png"), url("assets/titlebutton-maximize-active@2.png")); }
+  .header-bar .button.titlebutton.minimize,
+  .titlebar .button.titlebutton.minimize {
+    background-image: -gtk-scaled(url("assets/titlebutton-minimize.png"), url("assets/titlebutton-minimize@2.png")); }
+  .header-bar .button.titlebutton.minimize:backdrop,
+  .titlebar .button.titlebutton.minimize:backdrop {
+    background-image: -gtk-scaled(url("assets/titlebutton-minimize-backdrop.png"), url("assets/titlebutton-minimize-backdrop@2.png")); }
+  .header-bar .button.titlebutton.minimize:hover,
+  .titlebar .button.titlebutton.minimize:hover {
+    background-image: -gtk-scaled(url("assets/titlebutton-minimize-hover.png"), url("assets/titlebutton-minimize-hover@2.png")); }
+  .header-bar .button.titlebutton.minimize:active,
+  .titlebar .button.titlebutton.minimize:active {
+    background-image: -gtk-scaled(url("assets/titlebutton-minimize-active.png"), url("assets/titlebutton-minimize-active@2.png")); }
+
