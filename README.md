@@ -1,5 +1,7 @@
 # eOS Sierra Gtk
-A GTK theme for elementary OS Loki with macOS appearence and fixes for GTK applications
+A GTK theme for elementary OS Loki inspired by macOS.
+
+_*Contains appearance correction for GTK applications_
 
 
 ![First Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot1.png)
