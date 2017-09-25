@@ -19,6 +19,8 @@ A GTK theme for elementary OS Loki with macOS appearence and fixes for GTK appli
 
 ![Sixth Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot6.png)
 
+![Seventh Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot7.png)
+
 
 
 ## How to install
