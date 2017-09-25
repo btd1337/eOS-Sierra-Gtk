@@ -21,6 +21,7 @@ _*Contains appearance correction for GTK applications_
 
 ![Sixth Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot6.png)
 
+
 ![Seventh Screenshot](https://raw.githubusercontent.com/btd1337/eOS-Sierra-Gtk/master/screenshots/screenshot7.png)
 
 
@@ -28,8 +29,9 @@ _*Contains appearance correction for GTK applications_
 ## How to install
 
 ### First: 
- * Recommended install the La Capitaine icon pack, available in https://github.com/keeferrourke/la-capitaine-icon-theme or my mod: La Sierra icon pack: https://www.dropbox.com/s/0eo6ixbvp3g8ip9/La%20Sierra.tar.gz?dl=0 (Extract and put it in ~/.icons)
+ * Recommended install the La Sierra icon pack a La Capitaine's fork available in https://github.com/btd1337/La-Sierra-Icon-Theme or/and La Capitaine Icon Theme: https://github.com/keeferrourke/la-capitaine-icon-theme.
  * Recommended install San Francisco Fonts, available in https://github.com/AppleDesignResources/SanFranciscoFont
+ * Recommended install Cairo Dock and the theme Cairo-Dock macOS Sierra Style available in https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style
  
  
 ### Second:
