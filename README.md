@@ -1,7 +1,7 @@
 # eOS Sierra Gtk
 A GTK theme for elementary OS Loki inspired by macOS.
 
-This theme is a forked from https://www.gnome-look.org/p/1013714/
+This theme is a fork from https://www.gnome-look.org/p/1013714/
 
 _*Contains appearance correction for GTK applications_
 
