@@ -7,7 +7,7 @@ Encoding=UTF-8
 Name[en_US]=eOS-Sierra-Gtk
 
 [X-GNOME-Metatheme]
-GtkTheme=elementary
+GtkTheme=eOS-Sierra-Gtk
 IconTheme=elementary
 CursorTheme=DMZ-Black
-ButtonLayout=close:maximize
+ButtonLayout=close,minimize,maximize:menu
