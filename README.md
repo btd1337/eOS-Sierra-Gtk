@@ -1,6 +1,8 @@
 # eOS Sierra Gtk
 A GTK theme for elementary OS Loki inspired by macOS.
 
+This theme is a fork from https://www.gnome-look.org/p/1013714/
+
 _*Contains appearance correction for GTK applications_
 
 
@@ -33,6 +35,8 @@ _*Contains appearance correction for GTK applications_
  * Recommended install San Francisco Fonts, available in https://github.com/AppleDesignResources/SanFranciscoFont
  * Recommended install Cairo Dock and the theme Cairo-Dock macOS Sierra Style available in https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style
  
+ Note:
+ 2.0 version works only in GTK 3.22+ (avalaible in elementary OS Juno)
  
 ### Second:
 Clone the repository for folder ~/.themes/
