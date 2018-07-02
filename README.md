@@ -43,7 +43,7 @@ Clone the repository for folder ~/.themes/
  Note:
  2.0 version works only in GTK 3.22+, avalaible in elementary OS Juno. **Only if you are using elementary OS Loki run the command below!**
 
-    $ git checkout 1.0
+    $ cd ~/.themes/eOS-Sierra-Gtk && git checkout 1.0
     
 ### Third:
 Set theme:
