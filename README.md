@@ -35,13 +35,15 @@ _*Contains appearance correction for GTK applications_
  * Recommended install San Francisco Fonts, available in https://github.com/AppleDesignResources/SanFranciscoFont
  * Recommended install Cairo Dock and the theme Cairo-Dock macOS Sierra Style available in https://github.com/btd1337/Cairo-Dock-macOS-Sierra-Style
  
- Note:
- 2.0 version works only in GTK 3.22+ (avalaible in elementary OS Juno)
- 
 ### Second:
 Clone the repository for folder ~/.themes/
 
     $ git clone https://github.com/btd1337/eOS-Sierra-Gtk ~/.themes/eOS-Sierra-Gtk
+
+ Note:
+ 2.0 version works only in GTK 3.22+, avalaible in elementary OS Juno. **Only if you are using elementary OS Loki run the command below!**
+
+    $ cd ~/.themes/eOS-Sierra-Gtk && git checkout 1.0
     
 ### Third:
 Set theme:
