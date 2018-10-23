@@ -12,7 +12,7 @@
    viewBox="0 0 36 36"
    version="1.1"
    id="svg8"
-   sodipodi:docname="window-close.svg"
+   sodipodi:docname="window-close-hover.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata14">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +54,7 @@
      r="18"
      fill="#FF5252"
      id="circle2"
-     style="fill:#ed3247;fill-opacity:1" />
+     style="fill:#f15a6b;fill-opacity:1" />
   <circle
      cx="18"
      cy="18"
