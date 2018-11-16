@@ -1,5 +1,5 @@
 # eOS Sierra Gtk
-A GTK theme for elementary OS Loki inspired by macOS.
+A GTK theme for elementary OS Loki and Juno, inspired by macOS.
 
 This theme is a fork from https://www.gnome-look.org/p/1013714/ and https://www.gnome-look.org/p/1213208/
 
