@@ -62,8 +62,18 @@ Set theme:
  
  
 ### Donate:
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=US&item_name=btd1337&item_number=eOS%2dSierra%2dGtk&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
+Appreciate for coffee or beer :)
+
+##### Option 1:
+
+[![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](ko-fi.com/btd1337)
+
+##### Option 2:
+
+[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X85LVKF3HYPZL&lc=US&item_name=btd1337&item_number=eOS%2dSierra%2dGtk&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
  
+---
 
 #### Improvements are accepted!
 
